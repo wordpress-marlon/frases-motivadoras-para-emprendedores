@@ -7,17 +7,16 @@
 Plugin Name: Frases Motivadoras Para Emprendedores
 Plugin URI: http://wordpress.org/plugins/hello-dolly/
 Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
-Author: Matt Mullenweg
+Author: Marlon Falcon Hernández
 Version: 1.7.2
-Author URI: http://ma.tt/
+Author URI: http://marlonfalcon.cl
 */
 
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
-	$lyrics = "Hello, Dolly
+	$lyrics = "Las oportunidades no pasan, las creas
 El poder de la imaginación nos hace infinitos
 No puedes vencer a alguien que nunca se rinde
-Las oportunidades no pasan, las creas
 He fallado una y otra vez y es por ello que he tenido éxito
 Si puedes soñarlo, puedes hacerlo
 Si crees que puedes, ya estás a medio camino
